@@ -1,5 +1,5 @@
 import { createStore } from 'redux';
-import reducers from './reducers.js';
+import reducers from './reducers';
 
 // Initial state
 const initialState = {
